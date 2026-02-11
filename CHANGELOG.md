@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the [Smithsonian/cspice-sharedlib](https://github.com/Smithsonian/cspie-sharedlib) library will be 
+All notable changes to the [Sigmyne/cspice-sharedlib](https://github.com/Sigmyne/cspie-sharedlib) library will be 
 documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to 

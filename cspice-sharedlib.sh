@@ -87,7 +87,7 @@ echo "  LDFLAGS  = $LDFLAGS"
 gcc $CFLAGS -o lib/libcspice.so.1 src/cspice/*.c src/csupport/*.c $SO_LINK
 
 # ----------------------------------------------------------------------------
-# Create unversion .so symlink
+# Create unversioned .so symlink
 echo "Creating lib/libcspice.so link..."
 ( cd lib ; ln -sf libcspice.so.1 libcspice.so )
 

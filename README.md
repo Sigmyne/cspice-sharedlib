@@ -1,4 +1,4 @@
-![Test Build Status](https://github.com/Smithsonian/cspice-sharedlib/actions/workflows/build.yml/badge.svg)
+![Test Build Status](https://github.com/Sigmyne/cspice-sharedlib/actions/workflows/build.yml/badge.svg)
 
 # cspice-sharedlib
 
@@ -6,7 +6,7 @@ Shell script to build the [NAIF CSPICE Toolkit](https://naif.jpl.nasa.gov/naif/t
 a shared library (`libcspice.so[.1]`) and dynamically linked executables instead of the normal 
 static libraries and static linking used by the the upstream distribution.
 
-Author: Attila Kovacs `<attila.kovacs[AT]cfa.harvard.edu>`
+Author: Attila Kovacs
 Version: 0.9
 
 
@@ -51,4 +51,4 @@ the `LD_LIBRARY_PATH` environment variable), then copy the executables under `cs
 the location of choice.
 
 --------------------------------------------------------------------------------------------------
-Copyright (C)2024 Attila Kovacs
+Copyright (C)2026 Attila Kovacs
